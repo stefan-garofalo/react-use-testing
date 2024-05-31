@@ -1,7 +1,9 @@
 ## Attempt to implement `React.use` to fetch inline
 
 Based on @jherr video about `React.cache`. 
+
 https://youtu.be/T3m-MZkuadU?si=fVnsUKn18uubUsh5
+
 When trying to abstract away the cached function into a reusable lib.
 
 ### Error case:
