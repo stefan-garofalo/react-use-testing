@@ -4,7 +4,7 @@ Based on @jherr video about `React.cache`.
 
 https://youtu.be/T3m-MZkuadU?si=fVnsUKn18uubUsh5
 
-When trying to abstract away the cached function into a reusable lib.
+Additionally trying to abstract away the cached function into a reusable lib.
 
 ### Error case:
 When passing a dynamic parameter such as a primitive value the fetch still works.
